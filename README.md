@@ -3,4 +3,4 @@
 ## SID:C112181145
 
 ## EX03 Screenshot
-![screenshot](https://github.com/Huan1027/114-2Java.git)
+![screenshot](https://github.com/Huan1027/114-2Java/blob/main/img/ex03.png)
